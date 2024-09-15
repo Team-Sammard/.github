@@ -43,12 +43,6 @@ Our efforts have earned us remarkable success in prestigious international compe
 
 Our continuous drive for excellence and innovation has solidified our position as a force to be reckoned with in the international space community.
 
-## 📢 **Stay Connected**
-
-Follow us on our journey through space exploration:
-
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://teamsammard.com) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/team_sammard) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/teamsammardrocketry/mycompany/)
-
 
 ## 📚 **Interested in Joining us?**
 
@@ -59,5 +53,12 @@ Are you passionate about aerospace and eager to contribute to cutting-edge space
 
 The selection process includes multiple interview rounds designed to assess your skills, enthusiasm, and potential. If you're ready to take on challenges and contribute to groundbreaking projects, this is your chance to be part of our mission to revolutionize space technology!
 
----
 
+
+## 📢 **Stay Connected**
+
+Follow us on our journey through space exploration:
+
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://teamsammard.com) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/team_sammard) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/teamsammardrocketry/mycompany/)
+
+---
