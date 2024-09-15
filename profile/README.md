@@ -47,11 +47,8 @@ Our continuous drive for excellence and innovation has solidified our position a
 
 Follow us on our journey through space exploration:
 
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://teamsammard.com) 
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://teamsammard.com) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/team_sammard) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/teamsammardrocketry/mycompany/)
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/team_sammard) 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/teamsammardrocketry/mycompany/) 
 
 ## 📚 **Interested in Joining us?**
 
