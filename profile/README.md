@@ -48,4 +48,4 @@ The selection process includes multiple interview rounds designed to assess your
 ## **📢 Stay Connected**
 Follow us on our journey through space exploration:
 
-[Website](#) | [Instagram](#) | [LinkedIn](#)
+[Website](https://www.teamsammard.com/) | [Instagram](https://www.instagram.com/Team-Sammard) | [LinkedIn](https://in.linkedin.com/Team%20Sammard?_l=en_US)
